@@ -1,0 +1,122 @@
+{
+    "response": [
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 219,
+            "adFile": "/media/2b452cfd.png",
+            "duration": 5,
+            "interactFile": "/media/b41d55d3.png",
+            "adType": 1,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 1,
+            "interactiveId": 228
+        },
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 220,
+            "adFile": "/media/93c21dd2.png",
+            "duration": 5,
+            "interactFile": "/media/5bc83259.png",
+            "adType": 1,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 2,
+            "interactiveId": 229
+        },
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 221,
+            "adFile": "/media/3562ae98.png",
+            "duration": 5,
+            "interactFile": "/media/40b87408.png",
+            "adType": 1,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 3,
+            "interactiveId": 230
+        },
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 222,
+            "adFile": "/media/7731546b.png",
+            "duration": 5,
+            "interactFile": "/media/b41d55d3.png",
+            "adType": 2,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 1,
+            "interactiveId": 228
+        },
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 223,
+            "adFile": "/media/b362d4da.png",
+            "duration": 5,
+            "interactFile": "/media/5bc83259.png",
+            "adType": 2,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 3,
+            "interactiveId": 229
+        },
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 224,
+            "adFile": "/media/8b5a4ae7.png",
+            "duration": 5,
+            "interactFile": "/media/40b87408.png",
+            "adType": 2,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 5,
+            "interactiveId": 230
+        },
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 225,
+            "adFile": "/media/9c7c91e0.png",
+            "duration": 5,
+            "interactFile": "/media/b41d55d3.png",
+            "adType": 4,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 1,
+            "interactiveId": 228
+        },
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 226,
+            "adFile": "/media/e34f3b36.png",
+            "duration": 5,
+            "interactFile": "/media/5bc83259.png",
+            "adType": 4,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 2,
+            "interactiveId": 229
+        },
+        {
+            "timeTo": "12:00:00",
+            "dateTo": "2020-12-31",
+            "adId": 227,
+            "adFile": "/media/d078b47d.png",
+            "duration": 5,
+            "interactFile": "/media/40b87408.png",
+            "adType": 4,
+            "timeFrom": "12:00:00",
+            "dateFrom": "2000-01-01",
+            "adOrder": 3,
+            "interactiveId": 230
+        }
+    ],
+    "last_update": "27-Mar-2014"
+}

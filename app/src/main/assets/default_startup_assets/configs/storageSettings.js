@@ -1,0 +1,3 @@
+{
+	"storageMode":"internal"
+}
